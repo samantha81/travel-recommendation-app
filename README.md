@@ -95,7 +95,3 @@ Free usage is limited. If you hit a quota error (HTTP 402 or 429), wait for it t
 ## Data attribution
 
 Place data and map tiles are © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, available under the Open Database License (ODbL).
-
-## License
-
-MIT (add a `LICENSE` file when you create the repository).
